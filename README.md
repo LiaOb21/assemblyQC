@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/715096495.svg)](https://zenodo.org/doi/10.5281/zenodo.10666785)
+
 # assemblyQC
 
 <p align="center">
